@@ -3,7 +3,7 @@
 
 An online shopping platform similar to **digikala** that allows users to buy various products.
 
-**🛠 Built With**
+#### 🛠 Built With ####
 This project was built using the following technologies:
 
 ![enter image description here](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -19,8 +19,8 @@ This project was built using the following technologies:
 - [Features](#features)
 - [Installation](#installation)
 - [License](#license)
- - [Authors](#🚀authors)
- - [Contact](#contact)
+- [Authors](#🚀authors)
+- [Contact](#contact)
 
 ## Introduction
 
