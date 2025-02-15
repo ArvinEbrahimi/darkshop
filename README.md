@@ -1,72 +1,105 @@
-# 1. Dark Shop: Shop the Night Away,Your Dark Mode Shopping Experience. :skull:
+# Welcome to DarkShop!
 
-Enter Dark Shop, where the shadows conceal the best deals. Delve into a curated collection of products within a stylish and immersive dark theme. Discover hidden gems, secure exclusive offers, and indulge in a shopping experience that's both elegant and captivating. This is e-commerce, reimagined for the night.
+![Logo](https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/c8ruke1q5efsrfyfrarc)
 
-# 2. The features of Dark Shop:
+An online shopping platform similar to **digikala** that allows users to buy various products.
 
-- ##  User Accounts: Registered users can create personalized accounts to streamline their shopping experience. This includes the ability to:
-  - Save multiple shipping addresses.
-  -  View order history and track shipment progress.
-  -  Create and manage wishlists of favorite items.
-  -  Update profile information, including email and password.
+### 🛠 Built With ###
 
-- ##   Product Catalog: The product catalog provides a comprehensive and easily navigable overview of available items. Each product listing includes:
-  - High-quality images showcasing the product from various angles.<br>
-  - Detailed descriptions outlining features, specifications, and benefits.<br>
-  - Customer reviews and ratings providing valuable insights from other shoppers.<br>
-  - Price and availability information.<br>
-  - Options for selecting variations (e.g., size, color).
+This project was built using the following technologies:
 
-- ##   Shopping Cart: The shopping cart allows users to collect and manage the items they intend to purchase. Key features include:
-  -  Adding items to the cart directly from product listings.<br>
-  -  Adjusting quantities of items in the cart.<br>
-  -  Viewing a summary of the items in the cart, including subtotal, shipping costs, and taxes.<br>
-  -  Removing items from the cart.<br>
-  -  Proceeding to the secure checkout process.
+![enter image description here](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-- ##   Order Management: After placing an order, users can track its progress through the order management system. This includes:
-  -  Viewing order details, including items purchased, shipping address, and payment method.<br>
-  -  Tracking shipment status from order confirmation to delivery.<br>
-  -  Receiving email notifications regarding order updates.<br>
+![enter image description here](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-- ##   Responsive Design: The website is designed to be fully responsive, adapting seamlessly to different screen sizes and devices, including:
-  -  Desktops and laptops.<br>
-  -  Tablets.<br>
-  -  Smartphones.<br>
+![enter image description here](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- ##   Search & Filtering: Finding the right product is easy with Dark Shop's robust search and filtering capabilities:
-  -  Keyword search allows users to quickly locate products by name or description.<br>
-  -  Advanced filtering options enable users to narrow down results based on criteria such as price, category, brand, and color.
+![enter image description here](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- ##   Wishlist: Users can save their favorite items to a wishlist for later purchase. This feature allows users to:
-  -  Add items to the wishlist from product listings.<br>
-  -  View and manage their wishlist.<br>
-  -  Move items from the wishlist to the shopping cart.
+![enter image description here](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- ##   Customer Reviews: Customers can read and write reviews to share their experiences with products. This feature helps:
-  -  Other customers make informed purchasing decisions.<br>
-  -  Provides valuable feedback to sellers and developers.
+![enter image description here](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+  
+# Table of Contents
 
-# Follow these steps to use our code:
-1. Fork the repostory to your github acount.
-2. Copy your https code from <>Code.
-3. Go to your Editor and write these codes step by step:<br>
-git init<br>
-git remote add origin httpscode<br>
-git pull origin main
+- [Introduction](#introduction)
 
+- [Features](#features)
 
-# Please check *requirements*  file and install it. 📄
-Write this code in your editor's terminal:
-pip install -r requirements.txt
+- [Installation](#installation)
 
-# Summary
-Dark Shop is an open-source shopping web application designed to provide a customizable foundation for building e-commerce platforms. Key features include user accounts, product catalog management, secure checkout, and a responsive dark mode interface.  Contribute to the project and help us create the future of online shopping.<br>
-You can find the link to this project here: githublink <https://github.com/bill-BKH/darkshop.git>
+- [License](#license)
 
-# The languages that we used in this project:
-- Python
-- Html
-- Css
-- JavaScript
+- [Authors](#🚀authors)
+
+- [Contact](#contact)
+
+  
+## Introduction
+
+  
+**DarkShop** is an online shopping platform that enables users to browse products , add them to their cart and complete their purchases.
+
+  
+## Features
+
+- User registration and login
+
+- Product search and filtering
+
+- Shopping cart
+
+- Online payment
+
+- User account management
+
+- Product reviews and ratings
+
+- Admin panel for managing products and orders
+
+## Installation
+
+To install this project , please follow the steps below:
+
+**1. Clone the Repository**
+
+    git clone https://github.com/bill-BKH/darkshop.git
+
+**2. Navigate to the Project Directory**
+
+    cd darkshop
+
+**3. Install Dependencies**
+
+This project requires certain libraries and dependencies specified in the requirements.txt file.
+
+to install them , use the following command:
+
+    pip install -r requirements.txt
+
+**4. Database Setup (if needed)**
+
+if your project requires database setup , follow the necessary steps to configure the database.
+
+    python manage.py migrate
+
+**5. Run the Server**
+
+After installing the dependencies , you can run the development server using the following command:
+
+    python manage.py runserver
+
+By following these steps , you should be able to set up the project on your local machine.
+
+## License
+
+![enter image description here](https://img.shields.io/badge/Unlicense-green?style=for-the-badge&logo=unlicense&logoColor=white)
+
+## 🚀Authors
+
+This project is developed by ***[@Matin Sadeghi](https://github.com/MatinSadeghii)*** and ***Arvin Ebrahimi***.
+
+## Contact
+
+![enter image description here](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![enter image description here](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![enter image description here](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![enter image description here](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
